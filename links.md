@@ -3,10 +3,10 @@ permalink: LINKS/
 ---
 
 <br>
-[HOME] ({{ site.baseurl }}) |
-[LINKS] ({{ site.baseurl }}/LINKS/) |
-[LOG] ({{ site.baseurl }}{{ site.loglk }}) |
-[GITHUB] ({{ site.githublk }})
+[HOME] (/) |
+[LINKS] (/LINKS/) |
+[LOG] (TXT/mylog.txt) |
+[GITHUB] (https://github.com/Rachel-sustainabletech/os232/)
 <br>
 <hr>
 

@@ -1,6 +1,7 @@
-<h1> {{ site.title }} <h1>
+<h1> {{ site.title }} </h1>
 <hr>
-<p> Hi! i'm {{ site.name }} <p> 
+<p> Hi! i'm {{ site.name }} </p> 
+
 <br>
 [HOME] (/) |
 [LINKS] (/LINKS/) |
