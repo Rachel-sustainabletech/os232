@@ -2,8 +2,6 @@
 permalink: LINKS/
 ---
 
-<hr>
-
 # LINKS
 
 ### Week 01
