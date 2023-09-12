@@ -1,12 +1,13 @@
 ---
 permalink: LINKS/
 ---
-
 <br>
+
 [HOME] (/) |
 [LINKS] (/LINKS/) |
 [LOG] (TXT/mylog.txt) |
 [GITHUB] (https://github.com/Rachel-sustainabletech/os232/)
+
 <br>
 <hr>
 
