@@ -1,7 +1,5 @@
 # OS232
 
-[LINKS] (/LINKS/) ---
-[LOG] (TXT/mylog.txt) ---
-[GITHUB] (https://github.com/Rachel-sustainabletech/os232/) --- 
+|| [LOG](TXT/mylog.txt) || [Github](https://github.com/Rachel-sustainabletech/os232/) || [LINKS] (LINKS/)
 
 <br>
