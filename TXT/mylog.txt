@@ -16,7 +16,7 @@ ZCZC w01 20 L41 Debug and Update mylog.txt
 ZCZC w01 10 L03 Github related : commit and push os232  
 ZCZC w01 87 L11 Assignment #01 : downloading debian ISO Image, download manager, and virtualBox 
 ZCZC w01 15 L11 Assignment #01 : installing VirtualBox 
-ZCZC w01 25 L11 Assignment #01 : installing Debian Guest in VirtualBox
-ZCZC w01 110 L11 Assignment #01 : exploring debian guest 
-ZCZC w01 40 L11 Assignment #01 : hands-on linux CLI command 
-ZCZC w01 25 L11 Assignment #01 : 
+ZCZC w01 70 L11 Assignment #01 : installing Debian Guest in VirtualBox 
+ZCZC w01 60 L11 Assignment #01 : hands-on linux CLI command & vim 
+ZCZC w01 70 L11 Assignment #01 : gsgs and editing md files
+ZCZC w01 10 L03 Github related : commit and push the week 01 update 
