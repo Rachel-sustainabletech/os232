@@ -22,3 +22,6 @@ ZCZC w01 70 L11 Assignment #01 : gsgs and editing md files
 ZCZC w01 10 L03 Github related : commit and push the week 01 update 
 ZCZC w02 200 L12 Working and finishing assignment #02 
 ZCZC w02 15 L03 Github related : commit and push week 02 update
+ZCZC w02 200 L02 Offline classes at Tuesday and Thursday
+ZCZC w02 10 Quiz for week 02
+ZCZC w02 60 L06 GSGS about ssh, malware, linux memory system, and C programming language
