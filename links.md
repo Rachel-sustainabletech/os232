@@ -12,4 +12,4 @@ permalink: LINKS/
 1. [School Of Basics, What is SSH, How SSH Works](https://youtu.be/lRMAJwMQ0Vc?si=2_Xlz5TbLI4UTM_o) --- A brief explanation of how SSH works. The way the information delivered is very intuitive
 2. [C in 100 Seconds](https://youtu.be/U3aXWizDbQ4?si=gEjpG1sLFyQ1peyR) --- This video explains a general explanation of C programming language
 3. [Malware: Difference Between Computer Viruses, Worms, and Trojans](https://youtu.be/n8mbzU0X2nQ?si=tnmew0P1Swok-wG3) --- An explanation of malware. The illustration help me a lot to understand the course better 
-4. [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=4ZqAshPzDHhHxDyh) --- It helps me linux memory and swap usage. The explanation is very clear and comprehensive 
+4. [Linux Crash Course - Understanding Memory and Swap Usage](https://youtu.be/XTMyJ5l0GLg?si=4ZqAshPzDHhHxDyh) --- It helps me to understand linux memory and swap usage. The explanation is very clear and comprehensive 
