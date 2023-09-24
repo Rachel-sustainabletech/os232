@@ -30,3 +30,8 @@ ZCZC W03 100 L02 Offline class at tuesday
 ZCZC W03 45 L02 Online class at thurday
 ZCZC W03 62 L06 GSGS about bash scripting, regex, AWK, dan stream editor  
 ZCZC W03 15 L03 Github related : add, commit, and push week 03 update 
+ZCZC W03 20 L25 Learn C-language for PopQuiz W03-2
+ZCZC W03 40 L05 Working on pop quiz W03
+ZCZC W03 15 L43 peer review myrank.txt
+ZCZC W03 100 L80 Watching ghibli movie. the movie is so cute > <
+ZCZC W03 10 L03 add, commit, and push week 03 update 
