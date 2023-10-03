@@ -1,37 +1,46 @@
 # Log Format 
 # ZCZC WEEK# MINUTES LogCode Description 
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L00 General 
-ZCZC W00 200 L02 Offline Class   
-ZCZC W00 60 L05 Study for quiz from silberschatz et. al. slides  
-ZCZC W00 15 L05 Quiz for week 00 
-ZCZC W00 10 L03 Github related 
+ZCZC W00 10 L00 General
+ZCZC W00 200 L02 Offline Class
+ZCZC W00 60 L05 Study for quiz from silberschatz et. al. slides
+ZCZC W00 15 L05 Quiz for week 00
+ZCZC W00 10 L03 Github related
 ZCZC W00 30 L10 Assignment #00
 ZCZC W01 100 L02 Offline Class at Tuesday
-ZCZC W01 100 L02 Offline Class at Thursday 
-ZCZC W01 80 L31 Install and explore Ubuntu 
-ZCZC W01 45 L05 Study for Quiz by taking notes from silberschatz et. al. slides 
-ZCZC W01 10 L05 Quiz for week 01  
-ZCZC W01 20 L41 Debug and Update mylog.txt 
-ZCZC W01 10 L03 Github related : commit and push os232  
-ZCZC W01 87 L11 Assignment #01 : downloading debian ISO Image, download manager, and virtualBox 
-ZCZC W01 15 L11 Assignment #01 : installing VirtualBox 
-ZCZC W01 70 L11 Assignment #01 : installing Debian Guest in VirtualBox 
-ZCZC W01 60 L11 Assignment #01 : hands-on linux CLI command & vim 
+ZCZC W01 100 L02 Offline Class at Thursday
+ZCZC W01 80 L31 Install and explore Ubuntu
+ZCZC W01 45 L05 Study for Quiz by taking notes from silberschatz et. al. slides
+ZCZC W01 10 L05 Quiz for week 01
+ZCZC W01 20 L41 Debug and Update mylog.txt
+ZCZC W01 10 L03 Github related : commit and push os232
+ZCZC W01 87 L11 Assignment #01 : downloading debian ISO Image, download manager, and virtualBox
+ZCZC W01 15 L11 Assignment #01 : installing VirtualBox
+ZCZC W01 70 L11 Assignment #01 : installing Debian Guest in VirtualBox
+ZCZC W01 60 L11 Assignment #01 : hands-on linux CLI command & vim
 ZCZC W01 70 L11 Assignment #01 : gsgs and editing md files
-ZCZC W01 10 L03 Github related : commit and push the week 01 update 
-ZCZC W02 200 L12 Working and finishing assignment #02 
+ZCZC W01 10 L03 Github related : commit and push the week 01 update
+ZCZC W02 200 L12 Working and finishing assignment #02
 ZCZC W02 15 L03 Github related : commit and push week 02 update
 ZCZC W02 200 L02 Offline classes at tuesday and thursday
 ZCZC W02 10 Quiz for week 02
 ZCZC W02 60 L06 GSGS about ssh, malware, linux memory system, and C programming language
-ZCZC W03 75 L13 Assignment #03 : working and finishing assignment #03 
+ZCZC W03 75 L13 Assignment #03 : working and finishing assignment #03
 ZCZC W03 100 L02 Offline class at tuesday
 ZCZC W03 45 L02 Online class at thurday
-ZCZC W03 62 L06 GSGS about bash scripting, regex, AWK, dan stream editor  
-ZCZC W03 15 L03 Github related : add, commit, and push week 03 update 
+ZCZC W03 62 L06 GSGS about bash scripting, regex, AWK, dan stream editor
+ZCZC W03 15 L03 Github related : add, commit, and push week 03 update
 ZCZC W03 20 L25 Learn C-language for PopQuiz W03-2
 ZCZC W03 40 L05 Working on pop quiz W03
 ZCZC W03 15 L43 peer review myrank.txt
 ZCZC W03 100 L80 Watching ghibli movie. the movie is so cute > <
-ZCZC W03 10 L03 add, commit, and push week 03 update 
+ZCZC W03 10 L03 add, commit, and push week 03 update
+ZCZC W04 100 L02 Offline class at tuesday 26 September 2023
+ZCZC W04 30 L25 PopQuiz week 04-2 : making c program and Makefile
+ZCZC W04 30 L22 PopQuiz week 04-2 : turn rachelmathilda folder into tarball and compress it with xz
+ZCZC W04 30 L09 PopQuiz week 04-1 : copy a file from SCELE
+ZCZC W04 45 L14 Assignment #04 : reading silbershatz et.al slides and try demos
+ZCZC W04 30 L14 Assignment #04 : compiling and understanding the TLPI
+ZCZC W04 60 L14 Assignment #04 : updating txt and md files
+ZCZC W04 30 L06 GSGS related : learn about Makefile, encrypt/decrypt, Jekyll, and virtual memory
+ZCZC W04 10 L03 add, commit, and push week 04 update
