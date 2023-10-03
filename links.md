@@ -24,6 +24,8 @@ permalink: LINKS/
 3. [Introduction to SED: Stream Editor](https://youtu.be/Sz0xvKUmzpk?si=lnPP3aYpiN0wy5jF) --- Stream Editor tutorial. The instructions are very clear 
 4. [Linux Crash Course - awk](https://youtu.be/oPEnvuj9QrI?si=8F7CoV1K1C6ojg_C) --- AWK tutorial. The video explains how awk works, the use of awk for text files, chaining awk with other command, field separator, and etc 
 
+<hr>
+
 ### Week 04
 1. [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/?ref=lbp) --- Explanation of virtual memory
 2. [Unix Makefile Tutorial](https://www.tutorialspoint.com/makefile/index.htm) --- This website help me to understand Makefile and able to make my own Makefile
