@@ -42,5 +42,5 @@ ZCZC W04 30 L09 PopQuiz week 04-1 : copy a file from SCELE
 ZCZC W04 45 L14 Assignment #04 : reading silbershatz et.al slides and try demos
 ZCZC W04 30 L14 Assignment #04 : compiling and understanding the TLPI
 ZCZC W04 60 L14 Assignment #04 : updating txt and md files
-ZCZC W04 30 L06 GSGS related : learn about Makefile, encrypt/decrypt, Jekyll, and virtual memory
+ZCZC W04 30 L06 GSGS related : learn about Makefile, virtual memory, Jekyll, and thread
 ZCZC W04 10 L03 add, commit, and push week 04 update
