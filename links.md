@@ -32,6 +32,8 @@ permalink: LINKS/
 3. [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/?ref=lbp) --- This website contains information of thread in operating system
 4. [JEKYLL - Rasanya Develop WEB Yang Ada RUBY nyah](https://youtu.be/BngMA2ZLZLg?si=mt3BTqu3sKL_CYFJ) --- Jekyll tutorial in bahasa Indonesia. Easy to understand
 
+<hr>
+
 ### Week 05 
 1. [What Is Virtual Memory on Linux? How to Manage It](https://www.makeuseof.com/virtual-memory-on-linux/) --- The article provides a thorough explanation of virtual memory, covering its definition, advantages, and disadvantages, as well as addressing related concepts like demand paging and swapping.
 2. [Swap Space in Operating System](https://www.geeksforgeeks.org/swap-space-in-operating-system/) --- The article provides a clear and comprehensive explanation of swap space in operating systems. It covers the purpose of swap space, how it works, advantages, and disadvantages. 
