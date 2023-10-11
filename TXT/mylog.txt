@@ -44,3 +44,8 @@ ZCZC W04 30 L14 Assignment #04 : compiling and understanding the TLPI
 ZCZC W04 60 L14 Assignment #04 : updating txt and md files
 ZCZC W04 30 L06 GSGS related : learn about Makefile, virtual memory, Jekyll, and thread
 ZCZC W04 10 L03 add, commit, and push week 04 update
+ZCZC W05 120 L09 Working and finishing Pop Quiz 05-01, 05-02, and 05-02
+ZCZC W05 60 L15 Assignment #05 : working and finishing assignment 1, 2, 3, and 4
+ZCZC W05 20 L03 add, commit, and push week 05
+ZCZC W05 60 L06 GSGS related : learn about virtual memory, swap space in os, and IPC through shared memory
+ZCZC W05 60 L15 Assignment #05 : updating links.md, mylog.txt, myrank.txt, and myupdate.txt
