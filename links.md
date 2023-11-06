@@ -38,3 +38,9 @@ permalink: LINKS/
 1. [What Is Virtual Memory on Linux? How to Manage It](https://www.makeuseof.com/virtual-memory-on-linux/) --- The article provides a thorough explanation of virtual memory, covering its definition, advantages, and disadvantages, as well as addressing related concepts like demand paging and swapping.
 2. [Swap Space in Operating System](https://www.geeksforgeeks.org/swap-space-in-operating-system/) --- The article provides a clear and comprehensive explanation of swap space in operating systems. It covers the purpose of swap space, how it works, advantages, and disadvantages. 
 3. [IPC Through Shared Memory](https://www.geeksforgeeks.org/ipc-shared-memory/) --- The article effectively introduces Inter Process Communication (IPC) through shared memory. It provides clear code examples for both the writer and reader processes. 
+
+<hr>
+
+### Week 06 
+1. [What is Umask in Linux?](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/#:~:text=Umask%20(short%20for%20user%20file,masking%20or%20subtracting%20these%20permissions.) --- The article is a tutorial that explains the concept of Umask in Linux. The article includes practical examples of how different umask values affect the permissions of newly created files and directories.
+2. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm) --- The article covers the concept of shared memory, why it is needed for communication between processes, and the system calls involved in implementing shared memory.
