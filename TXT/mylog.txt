@@ -1,5 +1,5 @@
-# Log Format 
-# ZCZC WEEK# MINUTES LogCode Description 
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L00 General
 ZCZC W00 200 L02 Offline Class
@@ -50,7 +50,7 @@ ZCZC W05 20 L03 add, commit, and push week 05
 ZCZC W05 60 L06 GSGS related : learn about virtual memory, swap space in os, and IPC through shared memory
 ZCZC W05 60 L15 Assignment #05 : updating links.md, mylog.txt, myrank.txt, and myupdate.txt
 ZCZC W06 100 L02 Offline class at Tuesday
-ZCZC W06 100 L02 Offline class at Thurday 
+ZCZC W06 100 L02 Offline class at Thurday
 ZCZC W06 50 L06 GSGS related : learn about umask, shared memory, and fork in shared memory
 ZCZC W06 80 L16 Assignment #06 : working and finishing assignment 1, 2, 3, and 4
 ZCZC W06 70 L09 Working and finishing Pop Quiz 06-01, 06-02, and 06-03
