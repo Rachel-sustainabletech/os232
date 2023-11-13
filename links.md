@@ -44,3 +44,9 @@ permalink: LINKS/
 ### Week 06 
 1. [What is Umask in Linux?](https://www.liquidweb.com/kb/what-is-umask-and-how-to-use-it-effectively/#:~:text=Umask%20(short%20for%20user%20file,masking%20or%20subtracting%20these%20permissions.) --- The article is a tutorial that explains the concept of Umask in Linux. The article includes practical examples of how different umask values affect the permissions of newly created files and directories.
 2. [Shared Memory](https://www.tutorialspoint.com/inter_process_communication/inter_process_communication_shared_memory.htm) --- The article covers the concept of shared memory, why it is needed for communication between processes, and the system calls involved in implementing shared memory.
+
+<hr>
+
+### Week 07
+1. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process.) --- The article provides a clear explanation of process synchronization in Linux, covering concepts like fork(), orphan processes, and daemon processes. It effectively communicates technical information with well-structured content.
+2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article on fork() in C provides a clear and concise explanation of the concept, accompanied by well-documented code examples. It effectively covers various aspects, including the creation of child processes, fork() vs exec(), and common issues, making it a valuable resource for learners and developers.

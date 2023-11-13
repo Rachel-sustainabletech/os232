@@ -54,3 +54,7 @@ ZCZC W06 100 L02 Offline class at Thurday
 ZCZC W06 50 L06 GSGS related : learn about umask, shared memory, and fork in shared memory
 ZCZC W06 80 L16 Assignment #06 : working and finishing assignment 1, 2, 3, and 4
 ZCZC W06 70 L09 Working and finishing Pop Quiz 06-01, 06-02, and 06-03
+ZCZC W07 100 L02 Offline class at Tuesday
+ZCZC W07 45 L06 learn about Process Synchronization and fork 
+ZCZC W07 60 L09 Working and finishing Pop Quiz 07-01, 07-02
+ZCZC W07 100 L16 Assignment #07 : working and finishing assignments 1, 2, 3, 4
