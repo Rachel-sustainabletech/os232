@@ -33,7 +33,6 @@ ZCZC W03 15 L03 Github related : add, commit, and push week 03 update
 ZCZC W03 20 L25 Learn C-language for PopQuiz W03-2
 ZCZC W03 40 L05 Working on pop quiz W03
 ZCZC W03 15 L43 peer review myrank.txt
-ZCZC W03 100 L80 Watching ghibli movie. the movie is so cute > <
 ZCZC W03 10 L03 add, commit, and push week 03 update
 ZCZC W04 100 L02 Offline class at tuesday 26 September 2023
 ZCZC W04 30 L25 PopQuiz week 04-2 : making c program and Makefile
@@ -57,4 +56,6 @@ ZCZC W06 70 L09 Working and finishing Pop Quiz 06-01, 06-02, and 06-03
 ZCZC W07 100 L02 Offline class at Tuesday
 ZCZC W07 45 L06 learn about Process Synchronization and fork 
 ZCZC W07 60 L09 Working and finishing Pop Quiz 07-01, 07-02
-ZCZC W07 100 L16 Assignment #07 : working and finishing assignments 1, 2, 3, 4
+ZCZC W07 100 L17 Assignment #07 : working and finishing assignments 1, 2, 3, 4
+ZCZC W08 120 L18 Assignment #08 : working and finishing assignment 1, 2, 3, dan 4
+ZCZC W08 60 L06 GSGS related : learn about LFS (Linux From Scratch) 

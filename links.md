@@ -50,3 +50,7 @@ permalink: LINKS/
 ### Week 07
 1. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux#:~:text=Process%20synchronization%20in%20Linux%20involves,process%20is%20the%20child%20process.) --- The article provides a clear explanation of process synchronization in Linux, covering concepts like fork(), orphan processes, and daemon processes. It effectively communicates technical information with well-structured content.
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article on fork() in C provides a clear and concise explanation of the concept, accompanied by well-documented code examples. It effectively covers various aspects, including the creation of child processes, fork() vs exec(), and common issues, making it a valuable resource for learners and developers.
+
+### Week 08
+1. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=OrWhRurTMIwcwcqU) --- A Comprehensive Step-by-Step Guide to build LFS
+2. [Linux From Scratch Book](https://lfs.mirrors.hoobly.com/lfs/view/12.0/) --- A Comprehensive Step-by-Step Guide to build LFS in E-Book Version
