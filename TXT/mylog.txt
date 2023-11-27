@@ -58,4 +58,8 @@ ZCZC W07 45 L06 learn about Process Synchronization and fork
 ZCZC W07 60 L09 Working and finishing Pop Quiz 07-01, 07-02
 ZCZC W07 100 L17 Assignment #07 : working and finishing assignments 1, 2, 3, 4
 ZCZC W08 120 L18 Assignment #08 : working and finishing assignment 1, 2, 3, dan 4
-ZCZC W08 60 L06 GSGS related : learn about LFS (Linux From Scratch) 
+ZCZC W08 60 L06 GSGS related : learn about LFS (Linux From Scratch)
+ZCZC W09 120 L19 Assignment #09 : working and finishing assignment 1, 2, 3, 4
+ZCZC W09 60 L06 GSGS related : c-compiler in linux, raid
+ZCZC W09 15 L05 Quiz for week 9 
+ZCZC W09 100 L02 Offline class at Tuesday

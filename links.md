@@ -52,5 +52,8 @@ permalink: LINKS/
 2. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) --- The article on fork() in C provides a clear and concise explanation of the concept, accompanied by well-documented code examples. It effectively covers various aspects, including the creation of child processes, fork() vs exec(), and common issues, making it a valuable resource for learners and developers.
 
 ### Week 08
-1. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=OrWhRurTMIwcwcqU) --- A Comprehensive Step-by-Step Guide to build LFS
-2. [Linux From Scratch Book](https://lfs.mirrors.hoobly.com/lfs/view/12.0/) --- A Comprehensive Step-by-Step Guide to build LFS in E-Book Version
+1. [LFS 12.0 - How to build Linux From Scratch 12.0](https://youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&si=OrWhRurTMIwcwcqU) --- A Comprehensive Step-by-Step Guide to build LFS.
+2. [Linux From Scratch Book](https://lfs.mirrors.hoobly.com/lfs/view/12.0/) --- A Comprehensive Step-by-Step Guide to build LFS in E-Book Version.
+
+### Week 09 
+1. [RAID (redundant array of independent disks)](https://www.techtarget.com/searchstorage/definition/RAID) --- This article provides a comprehensive and well-structured overview of RAID (Redundant Array of Independent Disks), covering its definition, working principles, various RAID levels, controller types, benefits, downsides, and historical context.
