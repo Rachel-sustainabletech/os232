@@ -63,3 +63,5 @@ ZCZC W09 120 L19 Assignment #09 : working and finishing assignment 1, 2, 3, 4
 ZCZC W09 60 L06 GSGS related : c-compiler in linux, raid
 ZCZC W09 15 L05 Quiz for week 9 
 ZCZC W09 100 L02 Offline class at Tuesday
+ZCZC W10 120 L20 Assignment #10 : working and finishing assignment 1, 2, 3, 4
+ZCZC W10 30 L03 Github and git related: commit, push, pull

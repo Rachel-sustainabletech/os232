@@ -57,3 +57,6 @@ permalink: LINKS/
 
 ### Week 09 
 1. [RAID (redundant array of independent disks)](https://www.techtarget.com/searchstorage/definition/RAID) --- This article provides a comprehensive and well-structured overview of RAID (Redundant Array of Independent Disks), covering its definition, working principles, various RAID levels, controller types, benefits, downsides, and historical context.
+
+### Week 10 
+1. [Linux From Scratch](https://en.wikibooks.org/wiki/Linux_From_Scratch) --- This article provides a detailed guide on creating a Linux system from scratch, emphasizing manual configuration and assembly of components. 
